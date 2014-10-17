@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mup:home|Door43 (mup)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mup|d43-mup repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mup/archive/master.zip|d43-mup.zip]]
+
+**Recent Changes**
+{{changes>ns = mup}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mup|Ethnologue data]]
+
